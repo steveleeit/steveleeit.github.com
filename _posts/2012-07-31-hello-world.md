@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
-category: 
-tags: []
+description: "hello"
+category: Hello 
+tags: [test]
 ---
-hello world
 {% include JB/setup %}
+hello world
+你好世界
