@@ -2,7 +2,7 @@
 layout: post
 title: "Debian On T42 安装笔记"
 description: "" 
-category: "linux""Debian""笔记"
+category: "linux,Debian,笔记"
 tags: []
 ---
 {% include JB/setup %}
