@@ -7,4 +7,4 @@ tags: [test]
 ---
 {% include JB/setup %}
 hello world
-你好世界
+hello you
