@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "debianinstallont42"
+title: "Debian On T42 安装笔记"
 description: ""
 category: 'linux' 
 tags: []
