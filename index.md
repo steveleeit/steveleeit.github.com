@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World
+title: Steve Lee 
 tagline: Simple Life
 ---
 {% include JB/setup %}
