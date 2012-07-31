@@ -6,5 +6,4 @@ category: Hello
 tags: [test]
 ---
 {% include JB/setup %}
-hello world
-hello you
+-hello world-你好世界
