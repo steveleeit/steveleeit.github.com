@@ -2,7 +2,7 @@
 layout: post
 title: "debianinstallont42"
 description: ""
-category: "linux" 
+category: 'linux' 
 tags: []
 ---
 {% include JB/setup %}
