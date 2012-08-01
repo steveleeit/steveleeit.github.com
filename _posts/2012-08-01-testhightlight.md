@@ -6,6 +6,4 @@ category:
 tags: [高亮]
 ---
 {% include JB/setup %}
-{% highlight %}
 print 'hello world'
-{% highlight%}
