@@ -48,11 +48,11 @@ apt-get install bash-completion （一般默认已经安装）vim /etc/bash.bash
 
 找到
 
-#if [ -f /etc/bash_completion ]; then
+\#if [ -f /etc/bash_completion ]; then
 
-# . /etc/bash_completion
+\# . /etc/bash_completion
 
-#fi
+\#fi
 
 去掉注解，然后更改用户目录的 bashrc
 
