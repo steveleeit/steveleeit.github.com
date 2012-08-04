@@ -8,7 +8,7 @@ tags: [源]
 {% include JB/setup %}
 Archlinux的中科大源抛锚了，是在同步么？
 
-{% highlight %}
+{% highlight c %}
 stevelee@myhost ~]$ sudo pacman -S gimp
 正在解决依赖关系...
 正在查找内部冲突...
