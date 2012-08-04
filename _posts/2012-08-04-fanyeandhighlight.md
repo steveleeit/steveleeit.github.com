@@ -18,7 +18,7 @@ jekyll默认的翻页实在是惨不忍睹，遂折腾。
 
 在highlight后面要加上语言（C,python,php,and etc.）
 
-PS: "\"是转义符号，使用时应去除
+PS: "\"是转义符号，使用时应去除  
 {\% highlight python \%}  
 \#!/usr/bin/python  
 \##FILENAME = hello.py  
