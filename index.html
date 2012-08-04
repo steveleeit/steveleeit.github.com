@@ -10,7 +10,7 @@ title: Blog
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
   <li class="listing-item"><span>
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time></span> &raquo
+    <time datetime="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</time></span> &raquo
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
