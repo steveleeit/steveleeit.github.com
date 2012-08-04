@@ -8,20 +8,17 @@ title: Blog
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BA    SE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
-<div id="post-pagination" class="pagination">
+
+<div id="post-pagination" class="paginator">
 
   {% if paginator.previous_page %}
-  <p class="previous">
     {% if paginator.previous_page == 1 %}
-    <a href="/">Previous</a>
+    <a href="/"><前页</a>
     {% else %}
-    <a href="/page{{paginator.previous_page}}">Previous</a>
+    <a href="/page{{paginator.previous_page}}"><前页</a>
     {% endif %}
-  </p>
   {% else %}
-  <p class="previous disabled">
-    <span>Previous</span>
-  </p>
+    <span class="previous disabled"><前页</span>
   {% endif %}
 
       {% if paginator.page == 1 %}
