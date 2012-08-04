@@ -30,7 +30,7 @@ tags: []
 
 那么， 以后呢？？
 
-{% highlight python %}
+{% highlight php %}
 海内存知己，天涯若比邻。
 无为在岐路，儿女共沾巾。
 {% endhighlight %}
