@@ -2,7 +2,6 @@
 layout: default
 title: Blog
 ---
-
 <ul class="listing">
 {% for post in paginator.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -16,6 +15,8 @@ title: Blog
   </li>
 {% endfor %}
 </ul>
+
+<div id="post-pagination" class="paginator">
 
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
