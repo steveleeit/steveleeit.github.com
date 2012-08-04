@@ -2,7 +2,7 @@
 layout: post
 title: "而今，现在"
 description: ""
-category: 
+category: '生活点滴'
 tags: []
 ---
 {% include JB/setup %}
