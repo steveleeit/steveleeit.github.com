@@ -18,10 +18,10 @@ jekyll默认的翻页实在是惨不忍睹，遂折腾。
 
 在highlight后面要加上语言（C,python,php,and etc.）
 
-{\% highlight python \%}
-\#!/usr/bin/python
-\##FILENAME = hello.py
-print "hello world"
+{\% highlight python \%}  
+\#!/usr/bin/python  
+\##FILENAME = hello.py  
+print "hello world"  
 {\% endhighlight \%}
 
 效果：
