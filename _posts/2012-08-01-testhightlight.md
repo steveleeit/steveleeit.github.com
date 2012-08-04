@@ -7,3 +7,6 @@ tags: [高亮]
 ---
 {% include JB/setup %}
 print 'hello world'
+{% highlight python %}
+print 'hello world'
+{% endhighlight %}
