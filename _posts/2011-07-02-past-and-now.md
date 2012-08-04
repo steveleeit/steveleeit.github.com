@@ -27,8 +27,10 @@ tags: []
 
 那么， 以后呢？？
 
+{% highlight python %}
 海内存知己，天涯若比邻。
 无为在岐路，儿女共沾巾。
+{% endhighlight %}
 
 愿友谊天长地久。
 
