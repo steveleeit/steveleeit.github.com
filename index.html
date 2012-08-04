@@ -9,7 +9,7 @@ title: Blog
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
-  <li class="listing-item"><span>
+  <li class="posts"><span>
     <time datetime="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</time></span> &raquo
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
