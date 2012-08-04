@@ -11,7 +11,7 @@ tags: []
 3年已过，走过的路依旧明了。
 
 学校的柳树，我们刚来时才栽种的。而今…
-![liushu](http://linuxer0203.files.wordpress.com/2011/07/screenshot-351.png"柳树")
+!(http://linuxer0203.files.wordpress.com/2011/07/screenshot-351.png)
 课本：
 
 还记得那天，拿着准考证，忐忑的进入考室。还记得那几天，度日如年般的等待成绩出炉。  
