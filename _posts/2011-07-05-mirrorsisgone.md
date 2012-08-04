@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "源抛锚了"
-description: "开源镜像"
-category: 
+description: ""
+category: "笔记"
 tags: [源]
 ---
 {% include JB/setup %}
