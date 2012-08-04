@@ -13,8 +13,8 @@ tagline: Simple Life
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
-  <li class="posts">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+  <li class="listing-item">
+    <time datetime="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</time> &raquo
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
