@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 ---
-<ul class="listing">
+<ul class="posts">
 {% for post in paginator.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
