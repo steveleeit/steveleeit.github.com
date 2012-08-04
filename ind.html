@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Steve Lee
-tagline: Simple Life
+layout: default
+title: Blog
 ---
 
 <ul class="listing">
@@ -11,11 +10,12 @@ tagline: Simple Life
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
-  <li class="listing-item"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{    { BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+  <li class="listing-item">
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>
-
 <div id="post-pagination" class="paginator">
 
   {% if paginator.previous_page %}
