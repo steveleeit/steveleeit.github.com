@@ -9,4 +9,4 @@ tags: [qq]
 
 直接上图 。
 
-![](https://dl.stevelee.co.cc/u/92282746/pic/newly/qq.png)
+![](https://dl.thestevelee.co.cc/u/92282746/pic/newly/qq.png)
