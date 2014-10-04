@@ -6,6 +6,11 @@ tagline: Simple Life
 {% include JB/setup %}
 Welcome!
 <ul class="posts">
+	 10   {% for post in site.posts %}
+	  11     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BA    SE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+	   12   {% endfor %}
+	    13 </ul>
+<ul class="posts">
 {% for post in paginator.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
