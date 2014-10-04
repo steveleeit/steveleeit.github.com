@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
-url: http://stevelee.co.cc
+url: http://dogsteve.com
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 markdown: rdiscount
@@ -78,6 +78,7 @@ JB :
   categories_path : /categories.html
   tags_path : /tags.html
   pages_path : /pages.html
+  about_path : /about.md
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
