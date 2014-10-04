@@ -4,7 +4,7 @@ title: Steve Lee
 tagline: Simple Life
 ---
 {% include JB/setup %}
-这是Steve的博客，欢迎您。
+是Steve的博客，欢迎您。
 #文章列表:
 <ul class="posts">
   {% for post in site.posts %}
