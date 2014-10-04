@@ -9,7 +9,7 @@ tags: []
 
 
 3年已过，走过的路依旧明了。
-![](http://dl.thestevelee.co.cc/u/92282746/pic/graduation/road.png)
+![](http://dl.dogsteve.com/u/92282746/pic/graduation/road.png)
 学校的柳树，我们刚来时才栽种的。而今…
 ![](http://dl.thestevelee.co.cc/u/92282746/pic/graduation/tree.png)
 课本：
