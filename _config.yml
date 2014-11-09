@@ -8,8 +8,8 @@ auto: true
 markdown: rdiscount
 author: Steve Lee
 pygments: true
-paginate: 9 #//the number of post per page
-paginate_path: "blog/page:num"
+# the number of post per page
+paginate: 16 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
