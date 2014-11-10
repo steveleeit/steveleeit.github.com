@@ -38,7 +38,7 @@ production_url : http://steveleeit.github.com
 #
 JB :
   version : 0.2.13
-  #test 
+
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
