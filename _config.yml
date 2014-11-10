@@ -11,7 +11,7 @@ author: Steve Lee
 highlighter : true
 #pygments: true
 # the number of post per page
-paginate: 16
+paginate: 10
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -19,7 +19,7 @@ title : Steve Lee's blog
 tagline: Simple Life
 author :
   name : Steve Lee
-  email : steveleeit@gmail.com
+  email : steveleeit(#)gmail.com
   github : steveleeit
   twitter : steveleeit
   feedburner : steveleeit
