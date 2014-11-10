@@ -11,7 +11,7 @@ author: Steve Lee
 highlighter : true
 #pygments: true
 # the number of post per page
-paginate: 10
+paginate: 16
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
