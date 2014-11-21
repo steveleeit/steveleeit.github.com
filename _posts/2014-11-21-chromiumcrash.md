@@ -24,4 +24,8 @@ fish: Job 1, 'chromium' terminated by signal SIGSEGV (Address boundary error)
 ADD:
 问题还是没有解决，于是我换到了chrome，代理不能登录google帐号的原因找到了是因为插件权限的原因。
 
-我也是醉了
+其中我还发现一个问题，不同的shell给出的error信息不一样！！！
+
+我也是醉了。
+
+最终我还是免受了崩溃的烦恼 orz。。。
