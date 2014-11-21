@@ -19,3 +19,9 @@ fish: Job 1, 'chromium' terminated by signal SIGSEGV (Address boundary error)
 我想是因为我以前在debian7(gnome)的时候装过chromium留下的配置文件夹在作怪？（我重装系统只是格式化了/目录，保留了/home）
 
 我也不想去深究，至少现在不想，我的问题解决了。
+
+
+ADD:
+问题还是没有解决，于是我换到了chrome，代理不能登录google帐号的原因找到了是因为插件权限的原因。
+
+我也是醉了
