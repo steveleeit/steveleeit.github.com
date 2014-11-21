@@ -13,7 +13,7 @@ tags: [linux]
 今天又不知怎么的我想从终端打开chromium，崩溃之后看到这样一条崩溃信息
 {% highlight php %}
 fish: Job 1, 'chromium' terminated by signal SIGSEGV (Address boundary error)
-{% endhightlight %}
+{% endhighlight %}
 遂google之，发现那些东西对我的用处不大（根本没有解决我的问题or我的英文太差看不懂他们在说什么？）。然后我百度了，看到ubuntu中文论坛上的一篇类似的帖子说：重装chromium就可以解决，但是装之前要先删除.config/.chromium文件夹。于是我照做解决了问题。
 
 我想是因为我以前在debian7(gnome)的时候装过chromium留下的配置文件夹在作怪？（我重装系统只是格式化了/目录，保留了/home）
