@@ -60,6 +60,8 @@ group: navigation
 倾城之恋 张爱玲
 霍乱时期的爱情
 受戒
+√高老头
+√欧也妮·葛朗台
 √已读 ●在读
 {% endhighlight %}
 
