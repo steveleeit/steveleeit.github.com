@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 Steve Lee 李向阳
 
-![](http://dogsteve.com/me2.png)
+![](http://dogsteve.com/me2.png)---->
 ![](http://dogsteve.com/me.png)
 
 A learner  
