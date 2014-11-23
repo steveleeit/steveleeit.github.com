@@ -23,13 +23,15 @@ group: navigation
 {% endhighlight %}
 书单
 {% highlight php %}
-√大师和玛格丽特
+√1984
+√围城
+●大师和玛格丽特
 白鹿原
 沉默的大多数
 百年孤独
 黄金时代
 月亮和六便士毛姆
-倾城之恋张爱玲
+倾城之恋 张爱玲
 霍乱时期的爱情
 √已读 ●在读
 {% endhighlight %}
