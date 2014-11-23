@@ -23,7 +23,7 @@ group: navigation
 {% endhighlight %}
 书单
 {% highlight php %}
-大师和玛格丽特
+√大师和玛格丽特
 白鹿原
 沉默的大多数
 百年孤独
