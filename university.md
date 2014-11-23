@@ -26,6 +26,7 @@ group: navigation
 {% endhighlight %}
 书单
 {% highlight php %}
+蝇王
 洛丽塔
 √1984
 √围城
