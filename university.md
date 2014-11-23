@@ -33,7 +33,7 @@ group: navigation
 要事优先。
 练字
 {% endhighlight %}
-书单
+书单：
 {% highlight php %}
 蝇王
 洛丽塔
@@ -62,3 +62,5 @@ group: navigation
 受戒
 √已读 ●在读
 {% endhighlight %}
+
+初稿，混乱之处还望谅解。
