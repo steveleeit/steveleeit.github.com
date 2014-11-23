@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 这里有我大学的一些计划，一些想做的事情，想读的书
-{% highlight %}
+{% highlight php %}
 头一天晚上列出第二天需要做的事情，并且优先级标注。收拾好第二天出门需要的东西。
 减少deadline
 每天只在6点吃完饭主要看手机电脑一次（处理短信邮件）减少生活中不必要的通知与打扰。
