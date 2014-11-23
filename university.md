@@ -31,4 +31,5 @@ group: navigation
 月亮和六便士毛姆
 倾城之恋张爱玲
 霍乱时期的爱情
+√已读 ●在读
 {% endhighlight %}
