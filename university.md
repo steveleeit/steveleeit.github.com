@@ -10,6 +10,14 @@ group: navigation
 
 这里有我大学的一些计划，一些想做的事情，想读的书
 
+现在我正在学：
+{% highlight php %}
+微积分/数学分析
+离散数学
+程序设计基础
+计算思维
+{% endhighlight %}
+一些想法：
 {% highlight php %}
 头一天晚上列出第二天需要做的事情，并且优先级标注。收拾好第二天出门需要的东西。
 减少deadline
