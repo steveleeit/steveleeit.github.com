@@ -16,6 +16,7 @@ group: navigation
 离散数学
 程序设计基础
 计算思维
+普通地质学
 {% endhighlight %}
 一些想法：
 {% highlight php %}
