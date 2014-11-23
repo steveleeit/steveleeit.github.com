@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-大学，博客启用新的域名dogsteve.com。寓意着大学就要像狗一样学东西。
+大学，博客启用新的域名dogsteve.com，寓意着大学就要像狗一样学东西。
 
 这里有我大学的一些计划，一些想做的事情，想读的书
 
