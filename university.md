@@ -1,6 +1,3 @@
-| column | column |
-|--------|--------|
-|        |        |
 ---
 layout: page
 title: 大学
