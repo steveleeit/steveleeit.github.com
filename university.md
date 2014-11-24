@@ -4,7 +4,6 @@ title: 大学
 header:
 group: navigation
 ---
-{% include JB/setup %}
 
 大学，博客启用新的域名dogsteve.com，寓意着大学就要像狗一样学东西。
 
@@ -37,9 +36,6 @@ group: navigation
 {% endhighlight %}
 书单：
 {% highlight php %}
-| column | column |
-|--------|--------|
-|        |        |
 蝇王
 洛丽塔
 √1984
@@ -72,6 +68,3 @@ group: navigation
 {% endhighlight %}
 
 初稿，混乱之处还望谅解。
-| column | column |
-|--------|--------|
-|        |        |
