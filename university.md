@@ -1,3 +1,6 @@
+| column | column |
+|--------|--------|
+|        |        |
 ---
 layout: page
 title: 大学
@@ -37,6 +40,9 @@ group: navigation
 {% endhighlight %}
 书单：
 {% highlight php %}
+| column | column |
+|--------|--------|
+|        |        |
 蝇王
 洛丽塔
 √1984
@@ -69,3 +75,6 @@ group: navigation
 {% endhighlight %}
 
 初稿，混乱之处还望谅解。
+| column | column |
+|--------|--------|
+|        |        |
