@@ -4,13 +4,13 @@ title: 大学
 header:
 group: navigation
 ---
+{% include JB/setup %}
 
 大学，博客启用新的域名dogsteve.com，寓意着大学就要像狗一样学东西。
 
 这里有我大学的一些计划，一些想做的事情，想读的书
 
 还有，要习惯孤独。
-
 现在我正在学：
 {% highlight php %}
 微积分/数学分析
