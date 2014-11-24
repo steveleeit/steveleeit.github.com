@@ -2,7 +2,7 @@
 layout: post
 title: "折腾翻页和代码高亮"
 description: "jekyll"
-category: 
+category:
 tags: [折腾]
 ---
 {% include JB/setup %}
