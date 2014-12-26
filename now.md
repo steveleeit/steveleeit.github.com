@@ -3,6 +3,7 @@ layout: page
 title: "现在"
 description: ""
 ---
+{% include JB/setup %}
 nvnvnvnvnvnvnvnvnvnvvnvnvnvnvnvnvnnvnvnvvvnvf<br/>
 vvnvvvnvvnvvvnvvvvvvIvvvvvvvnvnvnvvvvvvvnvvvf<br/>
 nvvvnvvvnvvnvvvMNT>"|:+|:nXHM{vvvnvnvnvvvvvvf<br/>
