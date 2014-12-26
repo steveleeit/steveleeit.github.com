@@ -78,6 +78,7 @@ JB :
   #
   about_path : /about.html
   university_path : /university.html
+  now_path : /now.html
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
