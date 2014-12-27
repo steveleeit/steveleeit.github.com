@@ -9,6 +9,8 @@ description: ""
 
 #慢速讲话
 
+说话要经过思考！
+
 #放弃一切可以放弃的东西
 
 IM，twitter,micro-blogging
@@ -27,7 +29,7 @@ IM，twitter,micro-blogging
 
 怕失败，选择安稳，错过了一切。
 
-##调整作息
+###调整作息
 #赖床
 
 本质上是对将要开启这一整体的反抗。
